@@ -1,10 +1,9 @@
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="fig/logo.png" alt="GLIDER Icon" style="width: 120px; height: 100px;">
-  <h1 style="margin: 0; font-size: 24px;">Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning</h1>
+<div style="display: flex; align-items: center; gap: 2px;">
+  <h1 style="margin: 0; font-size: 14px;">Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning</h1>
 </div>
 
 
-Zican Hu<sup>12</sup>, Wei Liu<sup>3</sup>, Xiaoye Qu<sup>2</sup>, Xiangyu Yue<sup>4</sup>, Chunlin Chen<sup>1</sup>, Zhi Wang<sup>12</sup><sup>[✉](zhiwang@nju.edu.cn)</sup>, Yu Cheng<sup>4</sup><sup>[✉](chengyu@cse.cuhk.edu.hk)</sup>
+Zican Hu<sup>12</sup>, Wei Liu<sup>3</sup>, Xiaoye Qu<sup>2</sup>, Xiangyu Yue<sup>4</sup>, Chunlin Chen<sup>1</sup>, Zhi Wang<sup>12</sup><sup>[✉]()</sup>, Yu Cheng<sup>4</sup><sup>[✉]()</sup>
 
 <sup>1</sup>Nanjing University  <sup>2</sup>Shanghai AI Laboratory  <sup>3</sup>The Hong Kong University of Science and Technology  <sup>4</sup>The Chinese University of Hong Kong
 
@@ -16,13 +15,14 @@ Zican Hu<sup>12</sup>, Wei Liu<sup>3</sup>, Xiaoye Qu<sup>2</sup>, Xiangyu Yue<s
 ## **Citation**
 
 If you find our paper useful, please consider to star this repository and cite it:
-
-> @inproceedings{hu2024divide,
->       title={Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning}, 
->       author={Zican Hu and Wei Liu and  Xiaoye Qu and Xiangyu Yue and  Chuniln Chen and Zhi Wang and Yu Cheng},
->       year={2025},
->       booktitle={Proceedings of the 42st International Conference on Machine Learning}
-> }
+```tex
+@inproceedings{hu2024divide,
+      title={Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning},     
+      author={Zican Hu and Wei Liu and  Xiaoye Qu and Xiangyu Yue and  Chuniln Chen and Zhi Wang and Yu Cheng},
+      year={2025},
+      booktitle={Proceedings of the 42st International Conference on Machine Learning}
+}
+```
 
 ## **Instructions**
 
