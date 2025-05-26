@@ -1,9 +1,11 @@
 <div align="center">
 
 
-<h1 style="display: flex; justify-content: center; align-items: center; gap: 5px; margin: 0;">
-  <img src="fig/logo.png" alt="GLIDER Icon" width="150">Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning
-</h1>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="fig/logo.png" alt="GLIDER Icon" style="width: 150px; height: 100px;">
+  <h1 style="margin: 0; font-size: 24px;">Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning</h1>
+</div>
+
 
 Zican Hu<sup>12</sup>, Wei Liu<sup>3</sup>, Xiaoye Qu<sup>2</sup>, Xiangyu Yue<sup>4</sup>, Chunlin Chen<sup>1</sup>, Zhi Wang<sup>12</sup><sup>[✉](zhiwang@nju.edu.cn)</sup>, Yu Cheng<sup>4</sup><sup>[✉](chengyu@cse.cuhk.edu.hk)</sup>
 
