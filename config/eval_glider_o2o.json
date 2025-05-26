@@ -1,0 +1,16 @@
+{
+    "alg_name":"glider_o2o",
+    "benchmark":"scienceworld",
+    "max_new_tokens":32,
+    "do_sample":true,
+    "temperature":0.7,
+    "use_lora":true,
+    "model_name":"meta-llama/Meta-Llama-3-8B-Instruct",
+    "ds_config":"./config/eval_zero2.json",
+    "log_path":"./logs",
+    "check_path":"./check_points",
+    "env_step_limit":50,
+    "eval_freq":500,
+    "gama":0.99,
+    "seed":0
+}

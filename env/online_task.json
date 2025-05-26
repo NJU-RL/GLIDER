@@ -1,0 +1,32 @@
+{
+    "train":
+    [
+        "boil",
+        "change-the-state-of-matter-of",
+        "chemistry-mix",
+        "chemistry-mix-paint-secondary-color",
+        "find-animal",
+        "find-living-thing",
+        "freeze",
+        "grow-fruit",
+        "identify-life-stages-1",
+        "lifespan-longest-lived",
+        "lifespan-longest-lived-then-shortest-lived",
+        "melt",
+        "power-component",
+        "test-conductivity",
+        "use-thermometer"
+    ],
+    "test":
+    [
+        "chemistry-mix-paint-tertiary-color",
+        "find-non-living-thing",
+        "find-plant",
+        "grow-plant",
+        "identify-life-stages-2",
+        "lifespan-shortest-lived",
+        "melt",
+        "power-component-renewable-vs-nonrenewable-energy",
+        "test-conductivity-of-unknown-substances"
+    ]
+}

@@ -1,0 +1,7 @@
+[
+    "mistralai/Mistral-7B-Instruct-v0.2",
+    "google/gemma-1.1-7b-it",
+    "meta-llama/Meta-Llama-3-8B-Instruct",
+    
+    "Qwen/Qwen2-1.5B-Instruct"
+]

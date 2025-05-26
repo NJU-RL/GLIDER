@@ -1,0 +1,20 @@
+{
+    "alg_name":"glider_bc",
+    "benchmark":"scienceworld",
+    "max_new_tokens":32,
+    "do_sample":true,
+    "temperature":0.7,
+    "use_lora":true,
+    "model_name":"google/gemma-1.1-7b-it",
+    "ds_config":"./config/zero2.json",
+    "log_path":"./logs",
+    "check_path":"./check_points",
+    "env_step_limit":50,
+    "eval_freq":500,
+    "gama":0.99,
+    "epochs":5,
+    "lr":1e-4,
+    "seed":0,
+    "mode":"bc",
+    "half":0
+}

@@ -1,0 +1,12 @@
+{
+    "alg_name":"behavior_clone",
+    "benchmark":"scienceworld",
+    "max_new_tokens":16,
+    "do_sample":true,
+    "temperature":0.5,
+    "use_lora":true,
+    "check_path":"./check_points",
+    "model_name":"Qwen/Qwen2-1.5B-Instruct",
+    "ds_config":"./config/zero2.json",
+    "env_step_limit":100
+}

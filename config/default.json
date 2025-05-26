@@ -1,0 +1,23 @@
+{
+    "alg_name":"bc",
+    "benchmark":"scienceworld",
+    "load_bc_model":true,
+    "max_new_tokens":16,
+    "do_sample":true,
+    "temperature":0.5,
+    "detach_base":false,
+    "use_lora":true,
+    "use_adv":true,
+    "model_name":"meta-llama/Meta-Llama-3-8B-Instruct",
+    "ds_config":"./config/zero2.json",
+    "log_path":"./logs",
+    "check_path":"./check_points",
+    "env_step_limit":50,
+    "eval_freq":500,
+    "gama":0.99,
+    "epochs":15,
+    "actor_lr":5e-6,
+    "critic_lr":1e-4,
+    "tau":0.8,
+    "weight_tau":0.75
+}

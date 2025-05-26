@@ -1,0 +1,16 @@
+{
+    "alg_name":"glider_bc",
+    "benchmark":"scienceworld",
+    "max_new_tokens":16,
+    "do_sample":true,
+    "temperature":0.5,
+    "use_lora":true,
+    "check_path":"./check_points/collect_data0",
+    "model_name":"meta-llama/Meta-Llama-3-8B-Instruct",
+    "collect_model_path":"check_points/collect_data0/scienceworld/glider_bc/meta-llama/Meta-Llama-3-8B-Instruct",
+    "ds_config":"./config/eval_zero2.json",
+    "env_step_limit":100,
+    "collect_vari_num":10,
+    "seed":1,
+    "half":0
+}
