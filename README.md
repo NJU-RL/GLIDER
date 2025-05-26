@@ -1,6 +1,3 @@
-<div align="center">
-
-
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="fig/logo.png" alt="GLIDER Icon" style="width: 120px; height: 100px;">
   <h1 style="margin: 0; font-size: 24px;">Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning</h1>
