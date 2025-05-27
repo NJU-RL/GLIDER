@@ -2,6 +2,7 @@
   <h1 style="margin: 0; font-size: 14px;">Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning</h1>
 </div>
 
+<div align="center">
 [![arXiv](https://img.shields.io/badge/ArXiv-2401.12345-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.12345)
 [![stars](https://img.shields.io/github/stars/NJU-RL/GLIDER)](https://github.com/NJU-RL/GLIDER/stargazers)
 </div>
