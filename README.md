@@ -2,7 +2,7 @@
   <h1 style="margin: 0; font-size: 14px;">Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning</h1>
 </div>
 
-
+[![arXiv](https://img.shields.io/badge/ArXiv-2505.19761-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.19761)
 Zican Hu<sup>12</sup>, Wei Liu<sup>3</sup>, Xiaoye Qu<sup>2</sup>, Xiangyu Yue<sup>4</sup>, Chunlin Chen<sup>1</sup>, Zhi Wang<sup>12</sup><sup>[✉]()</sup>, Yu Cheng<sup>4</sup><sup>[✉]()</sup>
 
 <sup>1</sup>Nanjing University  <sup>2</sup>Shanghai AI Laboratory  <sup>3</sup>The Hong Kong University of Science and Technology  <sup>4</sup>The Chinese University of Hong Kong
