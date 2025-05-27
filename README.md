@@ -3,7 +3,7 @@
 </div>
 
 [![arXiv](https://img.shields.io/badge/ArXiv-2401.12345-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.12345)
-[![Github](https://img.shields.io/badge/GLIDER-000000?style=for-the-badge&logo=github)](https://github.com/NJU-RL/GLIDER)
+[![stars](https://img.shields.io/github/stars/NJU-RL/GLIDER)](https://github.com/NJU-RL/GLIDER/stargazers)
 
 Zican Hu<sup>12</sup>, Wei Liu<sup>3</sup>, Xiaoye Qu<sup>2</sup>, Xiangyu Yue<sup>4</sup>, Chunlin Chen<sup>1</sup>, Zhi Wang<sup>12</sup><sup>[✉]()</sup>, Yu Cheng<sup>4</sup><sup>[✉]()</sup>
 
