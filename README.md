@@ -2,9 +2,12 @@
   <h1 style="margin: 0; font-size: 14px;">Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning</h1>
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 10px;">
+<div style="display: flex; justify-content: center; margin-top: 10px; gap: 10px;">
     <a href="https://arxiv.org/abs/2505.19761">
         <img src="https://img.shields.io/badge/ArXiv-2505.19761-b31b1b.svg?logo=arXiv" alt="arXiv">
+    </a>
+    <a href="https://github.com/NJU-RL/GLIDER">
+        <img src="https://img.shields.io/badge/GLIDER-000000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
     </a>
 </div>
 
