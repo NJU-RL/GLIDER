@@ -34,7 +34,7 @@ GLIDER tested on two benchmark tasks ScienceWorld and AlfWorld. Follow the instr
 Create a virtual environment using conda, and see `requirments.txt` file for more information about how to install the dependencies.
 
 ```shell
-conda create -n acorm python=3.10 -y
+conda create -n glider python=3.10 -y
 conda activate glider
 pip install -r requirements.txt
 ```
